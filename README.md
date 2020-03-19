@@ -5,7 +5,6 @@
 1. Build a method that uses `while`
 2. Build a method that uses `until`
 
-
 # Using `while` and `until`
 
 It's our first year at Hogwarts and we're struggling to master the levitation charm, "Wingardium Leviosa". Currently, we have a levitation force of `6`. We need to have a levitation force of `10` in order to actually levitate that feather.
